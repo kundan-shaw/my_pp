@@ -707,7 +707,7 @@ img {
   }
 }
 
-@media (orientation: landscape) and (max-height: 100%) {
+@media (orientation: 100%) {
   .header {
     height: 90vmax;
   }
